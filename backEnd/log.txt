@@ -1,0 +1,6 @@
+2022-07-23 14:12:20SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+2022-07-23 14:12:24SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+2022-07-31 07:23:57SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+2022-07-31 07:23:59SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+2022-07-31 07:24:02SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+2022-07-31 07:24:04SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
